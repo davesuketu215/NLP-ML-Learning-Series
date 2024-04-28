@@ -1,5 +1,7 @@
 data/input/*.csv
 data/output/*.csv
+glove
+word2vec*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
